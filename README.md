@@ -1,3 +1,3 @@
 # Certificates
 
-All the Certiifacates are in Master branch 
+All the Certificates are in Master branch 
